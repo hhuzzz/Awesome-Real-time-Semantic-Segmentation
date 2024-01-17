@@ -6,10 +6,10 @@
 
 - [实时语义分割方法(Real-time Semantic Segmentation Methods)](#实时语义分割方法)
   - [单分支网络(Single-branch Network)](#单分支网络)
-  - [多分支网络(Two-branch Network)](#双分支网络)
-  - [单分支网络(Multi-branch Network)](#多分支网络)
+  - [双分支网络(Two-branch Network)](#双分支网络)
+  - [多分支网络(Multi-branch Network)](#多分支网络)
   - [U型网络(U-shape Network)](#U型网络)
-  - [U型网络(U-shape Network)](#U型网络)
+  - [NAS网络(U-shape Network)](#NAS网络)
 - [数据集(Dataset)](#数据集dataset)
 - [测速代码(Latency Measurement Code)](#测速代码)
 
